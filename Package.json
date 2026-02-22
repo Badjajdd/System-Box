@@ -1,0 +1,17 @@
+{
+  "name": "package-box-bot",
+  "version": "1.0.0",
+  "description": "بوت ديسكورد لصناديق البكج",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "dotenv": "^17.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
